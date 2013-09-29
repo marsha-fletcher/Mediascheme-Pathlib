@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="6.94444in" height="6.94444in"
+     viewBox="0 0 500 500">
+  <path id="BigCircle"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 250.00,0.00
+           C 111.93,0.00 0.00,111.93 0.00,250.00
+             0.00,388.07 111.93,500.00 250.00,500.00
+             388.07,500.00 500.00,388.07 500.00,250.00
+             500.00,111.93 388.07,0.00 250.00,0.00 Z" />
+</svg>
